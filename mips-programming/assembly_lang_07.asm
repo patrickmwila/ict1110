@@ -1,4 +1,7 @@
-### Prompt the user for two integers and print the sum
+## Author: 2019037459
+## Instructor: Dr Lighton Phiri
+
+ ### Prompt the user for two integers and print the sum
 ### Convention:
 ## $ ---> Register
 

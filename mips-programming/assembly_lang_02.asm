@@ -1,4 +1,7 @@
-### This is an assembly language program implementing addition, subtraction
+## Author: 2019037459
+## Instructor: Dr Lighton Phiri
+
+ ### This is an assembly language program implementing addition, subtraction
 ### multiplication and division of numbers.
 
 ### we are going to add 2 + 4 = 6

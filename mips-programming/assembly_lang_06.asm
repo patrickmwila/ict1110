@@ -1,4 +1,7 @@
-### Interactive mips assembly language programs
+## Author: 2019037459
+## Instructor: Dr Lighton Phiri
+
+ ### Interactive mips assembly language programs
 ### in this example we prompt for a user input
 
 

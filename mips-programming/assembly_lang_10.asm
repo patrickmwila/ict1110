@@ -1,4 +1,7 @@
-# Write a MIPS assembly program code that prompts a user to enter their date of birth and then
+## Author: 2019037459
+## Instructor: Dr Lighton Phiri
+
+ # Write a MIPS assembly program code that prompts a user to enter their date of birth and then
 # calculates and prints (i) the year they will turn 65 years of age—retirement age in the
 # Republic of Zambia—and (ii) the number of years remaining, from 2018, before they clock
 # 65 years of age.

@@ -1,4 +1,7 @@
-## Write an assembly language program that prompts a user to enter their date 
+## Author: 2019037459
+## Instructor: Dr Lighton Phiri
+
+ ## Write an assembly language program that prompts a user to enter their date 
 ## of birth (e.g. 2003) and then also prompt for the current year (e.g. 2019).
 ## The program should then calculate age of the user.
 

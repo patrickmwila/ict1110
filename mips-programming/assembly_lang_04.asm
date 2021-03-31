@@ -1,4 +1,7 @@
-## Review of math operations in mips assembly language                         
+## Author: 2019037459
+## Instructor: Dr Lighton Phiri
+
+ ## Review of math operations in mips assembly language                         
 ## Convention                                                                   
 ## $ ----> register                                                             
                                                                                    
