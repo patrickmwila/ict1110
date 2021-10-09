@@ -1,14 +1,12 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### Interactive mips assembly language programs
+### Interactive mips assembly language programs
 ### in this example we prompt for a user input
-
 
 .data
 .text
 .globl main
-
 
     main:
         li $v0, 5        ## make a syscall for reading an integer
@@ -33,7 +31,3 @@
         syscall           ## signal the syscall to exit program
 
 ### End of program
-
-
-
-
