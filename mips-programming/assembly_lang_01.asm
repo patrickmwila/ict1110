@@ -1,7 +1,7 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ## Program to add two intgers: 5 and 7
+## Program to add two integers: 5 and 7
 
 .data
 .text
