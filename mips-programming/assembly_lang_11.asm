@@ -1,7 +1,7 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### This programm prompts a user to enter favourite number and in turn outputs 
+### This programm prompts a user to enter favourite number and in turn outputs 
 ### it to the console
 
 .data
