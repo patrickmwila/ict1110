@@ -1,15 +1,13 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### Review of math operations in mips assembly language                         
+### Review of math operations in mips assembly language                         
 ## Convention
 ## $ ----> register                                                             
-                                                                                 
-                                                                                 
+                                                                                                                                                                  
 ### Example three                                                                 
 ## Write an assembly language program that evaluates 2*3-4/2+8         
-                                                                                 
-                                                                                
+                                                                                                                                                                 
 .data                                                                           
 .text                                                                           
 .globl main
@@ -36,7 +34,4 @@
 
         li $v0, 10 ### syscall to gracefully exit the 
         syscall    ### signal the syscall
-        ### End of pogram
-
-                                                                         
-
+        ### End of pogram                                                                     
