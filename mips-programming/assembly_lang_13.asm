@@ -1,7 +1,7 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### Write a mips assembly program that prompts a user to enter two integers and outputs
+### Write a mips assembly program that prompts a user to enter two integers and outputs
 ### the multiplication of the two numbers 
 ### note: use the mul instrunction, and later move the result from LO into any temporal 
 ### register mvfhi $10
