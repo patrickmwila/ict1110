@@ -1,7 +1,7 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### Prompt the user for two integers and print the sum
+### Prompt the user for two integers and print the sum
 ### Convention:
 ## $ ---> Register
 
@@ -49,10 +49,3 @@
         syscall                  ### signal the syscall
 
         ### End of program
-
-
-
-
-
-
-
