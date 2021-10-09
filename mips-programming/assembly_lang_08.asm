@@ -1,7 +1,7 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### Write an assembly language program that prompts a user to enter their name
+### Write an assembly language program that prompts a user to enter their name
 ### and, subsquently print out hello, followed by the name they have entered.
 
 
