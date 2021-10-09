@@ -1,7 +1,7 @@
 ## Author: 2019037459
 ## Instructor: Dr Lighton Phiri
 
- ### Review of math operations in mips assembly language
+## Review of math operations in mips assembly language
 ## Convention
 ## $ ----> register
 
@@ -39,7 +39,3 @@
         syscall     ## signal the syscall
 
 ### End of program
-
-
-
-
