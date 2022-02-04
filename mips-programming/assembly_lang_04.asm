@@ -18,7 +18,7 @@
         addi $8, $0, 1   ### Add 1 + 0 and place the result 1 in $8             
         addi $9, $0, 2   ### Add 2 + 0 and place the result 2 in $9             
                                                                                  
-        sub $10, $8, $9  ### Sub what is in $9 to from what is in $8 and place the result in $10 = -3                                                                                 
+        sub $10, $8, $9  ### Sub what is in $9 from what is in $8 and place the result in $10 = -3                                                                                 
         
         ## From the question lets load 3                                        
                                                                                  
